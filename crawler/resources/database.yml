@@ -1,0 +1,5 @@
+database:
+  dbname: agri
+  host: localhost
+  username: root
+  password: mysql
